@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Entity_Code_First_Application_Blog\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb
